@@ -17,7 +17,3 @@ variable "ext_port_in" {
 variable "container_path_in" {
   description = "volume internal path for container"
 }
-
-variable "host_path_in" {
-  description = "volume external path for container"
-}
