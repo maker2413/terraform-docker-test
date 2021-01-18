@@ -1,3 +1,4 @@
 .terraform
+noderedvol
 terraform.tfstate*
 terraform.tfvars
