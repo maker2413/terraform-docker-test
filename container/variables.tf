@@ -1,3 +1,7 @@
+variable "count_in" {
+  description = "count of containers"
+}
+
 variable "name_in" {
   description = "name of container"
 }
