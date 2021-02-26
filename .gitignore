@@ -2,3 +2,4 @@
 noderedvol
 terraform.tfstate*
 terraform.tfvars
+containers.txt
