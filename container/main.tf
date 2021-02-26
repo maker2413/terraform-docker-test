@@ -1,3 +1,5 @@
+# --- container/main.tf ---
+
 resource "random_string" "random" {
   count   = var.count_in
   length  = 4

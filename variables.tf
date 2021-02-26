@@ -1,3 +1,5 @@
+# --- root/variables.tf ---
+
 variable "image" {
   type        = map(any)
   description = "image for container"

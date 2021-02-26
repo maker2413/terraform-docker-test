@@ -1,3 +1,5 @@
+# --- root/main.tf ---
+
 module "image" {
   source = "./image"
 
