@@ -4,8 +4,8 @@ variable "count_in" {
   description = "count of containers"
 }
 
-variable "name_in" {
-  description = "name of container"
+variable "ext_port_in" {
+  description = "External port for container"
 }
 
 variable "image_in" {
@@ -16,10 +16,10 @@ variable "int_port_in" {
   description = "Internal port for container"
 }
 
-variable "ext_port_in" {
-  description = "External port for container"
+variable "name_in" {
+  description = "name of container"
 }
 
-variable "container_path_in" {
+variable "volumes_in" {
   description = "volume internal path for container"
 }
